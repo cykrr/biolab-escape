@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "gh-pages": "^6.3.0"
+  },
+  "dependencies": {
+    "coi-serviceworker": "^0.1.7"
   }
 }
