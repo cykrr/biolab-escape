@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Proyecto OII421-1.0";
 const contentToCache = [
-    "Build/New folder.loader.js",
-    "Build/New folder.framework.js.br",
-    "Build/New folder.data.br",
-    "Build/New folder.wasm.br",
+    "Build/asd.loader.js",
+    "Build/asd.framework.js.br",
+    "Build/asd.data.br",
+    "Build/asd.wasm.br",
     "TemplateData/style.css"
 
 ];
